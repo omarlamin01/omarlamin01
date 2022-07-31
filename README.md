@@ -1,9 +1,9 @@
 <h1 align="center">Hello world! it's me Lamine Omar</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/omarlamin01/Portfolio)
+- 🔭 I’m currently working on [FPT Students Digital Space](https://github.com/omarlamin01/Portfolio)
 
-- 🌱 I’m currently learning **UX/UI Design**
+- 🌱 I’m currently learning **VueJS & Laravel**
 
 - 👨‍💻 All of my projects are available at [https://omar-lamine.000webhostapp.com/](https://omar-lamine.000webhostapp.com/)
 
