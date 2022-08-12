@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://omar-lamine.000webhostapp.com/](https://omar-lamine.000webhostapp.com/)
 
-- 📫 How to reach me **contactomarlamine272@gmail.com**
+- 📫 How to reach me **contactomarlamine1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
