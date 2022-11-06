@@ -15,6 +15,9 @@ A passionate developer from Morocco
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omarlamin01&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
+# 👨‍💻 Skills chart:
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=omarlamin01)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
