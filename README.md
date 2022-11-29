@@ -27,9 +27,6 @@ A passionate developer from Morocco
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=omarlamin01&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
